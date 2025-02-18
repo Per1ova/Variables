@@ -11,5 +11,5 @@ void main() {
   String c = "Schöne";
   String morning = "Morgen";
   String S = "Heute";
-  String spa = "";
+  String spa = " ";
 }
